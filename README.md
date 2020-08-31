@@ -1,3 +1,5 @@
+Some helpful tips for students in our group:
+
 ## Getting started
   * Install:
      * $sudo apt install git    (ubuntu)
