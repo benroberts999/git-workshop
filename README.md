@@ -11,6 +11,9 @@ git also allows branching - allowing you to make changes to a separate version o
 git also allows you to copy/synchronise code between computers with the concept of local of 'remote' version of the repository.
 Note: git is separate to github - github is a website where you can host git repositories.
 Some tutorials available:
+ * https://git-scm.com/book/en/v2 -- an open-source book - very complete
+ * https://learngitbranching.js.org/ -- a nice interactive tutorial
+ * Also others, e.g.:
  * https://www.atlassian.com/git
  * https://www.atlassian.com/git/tutorials
 
