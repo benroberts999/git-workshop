@@ -49,6 +49,11 @@ The following can be thought of as a quick 'cheat sheet' to help you remember th
   * `$ git checkout <revision>`: updates HEAD and current branch
      * revision can be a name (branch name), or the hash of a specific commit
 
+  * You may have to set your name and email when making your first commit (commits must track WHO made the commit):
+    * Set your username: git config --global user.name "FIRST_NAME LAST_NAME"
+    * Set your email address: git config --global user.email "MY_NAME@example.com"  
+    * If you use same email as your github profile, best results
+
 ### FAQ:
   * Why do I need to "stage" and then "add" - why isn't this one step
     * While it is common to want to commit _all_ the changes you have made in one go, it's also common for us _not_ to want to do this. Having a two-step process allows us to commit some of the changes we have made, without committing others. (You can even selectively commit only part of a file)
