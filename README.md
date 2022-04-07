@@ -50,8 +50,8 @@ The following can be thought of as a quick 'cheat sheet' to help you remember th
      * revision can be a name (branch name), or the hash of a specific commit
 
   * You may have to set your name and email when making your first commit (commits must track WHO made the commit):
-    * Set your username: git config --global user.name "FIRST_NAME LAST_NAME"
-    * Set your email address: git config --global user.email "MY_NAME@example.com"  
+    * Set your username: `$ git config --global user.name "FIRST_NAME LAST_NAME"`
+    * Set your email address: `$ git config --global user.email "MY_NAME@example.com"`
     * If you use same email as your github profile, best results
 
 ### FAQ:
