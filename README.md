@@ -2,6 +2,7 @@
 klfsd
 j
 dfghjkl;
+command test
 ## git
 
 git is a version control software.
