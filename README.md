@@ -7,6 +7,12 @@ This is some simple modification
 
 I can also modify things directly from the web page!
 
+Different modification in a different branch
+
+Some changes from a new branch
+
+Some more changes
+
 ## git
 
 git is a version control software.
