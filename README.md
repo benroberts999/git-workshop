@@ -19,6 +19,8 @@ Some tutorials available:
   * <https://learngitbranching.js.org/> -- a nice interactive tutorial
 * To set up ssh keys for github: <https://docs.github.com/en/authentication/connecting-to-github-with-ssh>
 
+Link to the workshop slides: <https://docs.google.com/presentation/d/1_vr6rSFEnR3vQKaKaPAe4Y9ECy6QbMDHU4nevcCBGus/edit?usp=sharing>
+
 ## Getting started
 
 * Install:
