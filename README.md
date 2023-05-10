@@ -5,6 +5,8 @@ Some changes from github.com
 
 This is some simple modification
 
+I can also modify things directly from the web page!
+
 ## git
 
 git is a version control software.
