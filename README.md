@@ -3,6 +3,12 @@
 I'm adding some changes
 Some changes from github.com
 
+This is some simple modification
+
+I can also modify things directly from the web page!
+
+Different modification in a different branch
+
 Some changes from a new branch
 
 Some more changes
