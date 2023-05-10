@@ -1,6 +1,7 @@
 # Git and GitHub Workshop
 
 I'm adding some changes
+Some changes from github.com
 
 ## git
 
