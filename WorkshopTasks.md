@@ -1,6 +1,6 @@
 # Workshop Tasks
 
-## Pre-work
+## Pre-work 2
 
 * Make yourself a github user account <https://github.com>
 * Install Visual Studio Code: <https://code.visualstudio.com/>
