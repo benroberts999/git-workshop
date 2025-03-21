@@ -21,6 +21,10 @@ Some tutorials available:
 
 Link to the workshop slides: <https://docs.google.com/presentation/d/1_vr6rSFEnR3vQKaKaPAe4Y9ECy6QbMDHU4nevcCBGus/edit?usp=sharing>
 
+The below is an overview of the command-line interface to git.
+
+Using a GUI is often simpler -- see examples in slides linked above
+
 ## Getting started
 
 * Install:
